@@ -1,2 +1,2 @@
-# realtime-chat-app
+# Realtime Chat App
 Share secrets only people in your room will know ...
